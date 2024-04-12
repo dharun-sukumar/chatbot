@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <nav className="flex flex-col bg-black w-[10%] h-[100%]">
+    <nav className="flex flex-col bg-black w-[8%] h-[100%] rounded-2xl">
       
     </nav>
   );
